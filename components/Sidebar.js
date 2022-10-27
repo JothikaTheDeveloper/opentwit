@@ -21,7 +21,7 @@ function sidebar() {
       <Image src="https://rb.gy/nf7spt" width={30} height={30}/>
     </div>
     <div className="space-y-2.5 mt-4 mb-2.5 xl:ml-24">
-        <SidebarLink text="Home" Icon={AiFillHome} active />
+        <SidebarLink text="Homesssss" Icon={AiFillHome} active />
         <SidebarLink text="Explore" Icon={FaHashtag} />
         <SidebarLink text="Notifications" Icon={BsBell} />
         <SidebarLink text="Messages" Icon={AiOutlineInbox} />
